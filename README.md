@@ -2,7 +2,7 @@
 
 ## Description
 
-### Multiple image picker for iOS app.
+### Multiple image picker for iOS app. (Using pods as the oficial repository decided to remove it)
 
 NohanaImagePicker enables your app to pick images from multiple album, and the moment.
 
